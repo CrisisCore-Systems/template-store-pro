@@ -1,0 +1,12 @@
+Django>=4.2,<5.0
+python-dotenv
+stripe
+pillow
+psycopg2-binary
+redis
+sentry-sdk
+gunicorn
+whitenoise
+django-crispy-forms
+django-allauth
+django-environ
